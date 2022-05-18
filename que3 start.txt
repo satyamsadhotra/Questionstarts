@@ -1,0 +1,7 @@
+$ git init
+ls
+$ git add 'display.html'
+$ git commit - m 'add'
+git remote add origin (linkofrepository)
+$ git push origin master
+done

@@ -1,0 +1,13 @@
+create file angular
+cmd
+ng new myapp
+y
+enter
+open vs code and that angular folder
+src
+app
+app.component.html (make form)
+copy form code angular form
+open terminal
+ng serve (if first run cd myapp)
+open port 4200 in browser

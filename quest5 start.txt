@@ -1,0 +1,12 @@
+not in c drive)
+make folder exx
+cmd
+npm install express
+npm install -g nodemon --save -dev
+same line
+open vs code and that folder
+New make folder public (copy q5 html css)
+make index.js (write code q5)
+terminal
+node index. js
+browser localhost:8080
